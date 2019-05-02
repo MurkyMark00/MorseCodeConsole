@@ -1,0 +1,12 @@
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\bin\Debug\netcoreapp3.0\MorseCodeConsole.exe
+C:\Users\ahmet\vscodeprojects\MorseCodeConsole\bin\Debug\netcoreapp3.0\MorseCodeConsole.deps.json
+C:\Users\ahmet\vscodeprojects\MorseCodeConsole\bin\Debug\netcoreapp3.0\MorseCodeConsole.runtimeconfig.json
+C:\Users\ahmet\vscodeprojects\MorseCodeConsole\bin\Debug\netcoreapp3.0\MorseCodeConsole.runtimeconfig.dev.json
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\bin\Debug\netcoreapp3.0\MorseCodeConsole.dll
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\bin\Debug\netcoreapp3.0\MorseCodeConsole.pdb
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\obj\Debug\netcoreapp3.0\MorseCodeConsole.csprojAssemblyReference.cache
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\obj\Debug\netcoreapp3.0\MorseCodeConsole.csproj.CoreCompileInputs.cache
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\obj\Debug\netcoreapp3.0\MorseCodeConsole.AssemblyInfoInputs.cache
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\obj\Debug\netcoreapp3.0\MorseCodeConsole.AssemblyInfo.cs
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\obj\Debug\netcoreapp3.0\MorseCodeConsole.dll
+c:\Users\ahmet\vscodeprojects\MorseCodeConsole\obj\Debug\netcoreapp3.0\MorseCodeConsole.pdb
